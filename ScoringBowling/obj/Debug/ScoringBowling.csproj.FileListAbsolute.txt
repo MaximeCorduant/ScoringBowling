@@ -1,0 +1,7 @@
+c:\users\moop\source\repos\ScoringBowling\ScoringBowling\bin\Debug\ScoringBowling.exe.config
+c:\users\moop\source\repos\ScoringBowling\ScoringBowling\bin\Debug\ScoringBowling.exe
+c:\users\moop\source\repos\ScoringBowling\ScoringBowling\bin\Debug\ScoringBowling.pdb
+c:\users\moop\source\repos\ScoringBowling\ScoringBowling\obj\Debug\ScoringBowling.csprojAssemblyReference.cache
+c:\users\moop\source\repos\ScoringBowling\ScoringBowling\obj\Debug\ScoringBowling.csproj.CoreCompileInputs.cache
+c:\users\moop\source\repos\ScoringBowling\ScoringBowling\obj\Debug\ScoringBowling.exe
+c:\users\moop\source\repos\ScoringBowling\ScoringBowling\obj\Debug\ScoringBowling.pdb
