@@ -26,7 +26,7 @@ namespace ScoringBowling
         private bool _strike;                   // Indicates if there is a strike now
         private bool _spare;                    // Indicates if there was a spare now
 
-        private bool _godMode = false;          // Strikes or spares guaranteed : you chose the number of knocked down pins in the first roll and get a spare afterwards (unless you chose 10 to only have strikes)
+        private bool _godMode = false;          // Strikes or spares guaranteed : you choose the number of knocked down pins in the first roll and get a spare afterwards (unless you chose 10 to only have strikes)
         private int _pinsWanted;                // Fixed number of pins used in the god mode
 
 

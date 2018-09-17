@@ -19,7 +19,7 @@ namespace ScoringBowling.Tests
             Assert.IsTrue(0 <= finalScore && finalScore <= 300);
         }
 
-        /// Test the max score for a 10 frames game
+        /// Test the max score of a 10 frames game
         [TestMethod]
         public void ScoreMaxTest()
         {
